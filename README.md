@@ -5,3 +5,5 @@ This is a simple Java Console Project where the user can create an account as a 
 Hr can create a Job Post, Edit aa Job Post, Delete Job Post, View Job Post.
 
 Applicant can check all posts and can apply to the one which he wants. He can share the Job Post as well as comment on the post.
+
+The Execution starts from Main_Method.java in Controller package under src folder.
